@@ -12,7 +12,7 @@ Below here are all Weekly nerds and
 - [Fenna de Wilde]()
 - [Rik Schennink]()
 - [Krijn Hoetmer]()
-_~~[Vitaly Friedman]()~~ sick_
+- _~~Vitaly Friedman~~ sick_
 - [Chanel]()
 - [Leonie Watson]()
 - [Rian Rietveld]()
