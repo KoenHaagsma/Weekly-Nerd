@@ -7,21 +7,21 @@ Below here are all Weekly nerds and
 
 
 ## Weekly nerd:
-- [Cyd Stumpel - Creative Developer]()
-- [Alvaro Montoro]()
-- [Bramus]()
-- [Nils Binder]()
+- [Cyd Stumpel - Creative Developer](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Cyd-Stumpel---Creative-Developer)
+- [Alvaro Montoro](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Alvaro-Montaro)
+- [Bramus](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Bramus)
+- [Nils Binder](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Nils-Binder)
 - _~~Fenna de Wilde~~ missed_
 - _~~Rik Schennink~~ canceled_
-- [Krijn Hoetmer]()
+- [Krijn Hoetmer](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Krijn-Hoetmeer)
 - _~~Vitaly Friedman~~ sick_
-- [Chanel]()
-- [Leonie Watson]()
+- [Chanel](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Chanel)
+- [Leonie Watson](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Leonie-Watson)
 - _~~Rian Rietveld~~ missed_
 
 ## Articles
-- [Lazy Loading]()
-- [CSS Scrolling]()
-- [Front-end vs Back-end]()
+- [Lazy Loading](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Lazy-Loading)
+- [CSS Scrolling](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/CSS-Scrolling)
+- [Front-end vs Back-end](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Front-end-vs-Back-end)
 
 
