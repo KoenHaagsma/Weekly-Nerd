@@ -20,5 +20,8 @@ Below here are all Weekly nerds and
 - [Rian Rietveld]()
 
 ## Articles
+- [Lazy Loading]()
+- [CSS Scrolling]()
+- [Front-end vs Back-end]()
 
 
