@@ -3,7 +3,7 @@
 This is the repo for Weekly Nerd @ the CMDA Minor Web year 2021 - 2022, this year we had several great speakers to get us to know more about certain topics.
 Sidenote: I think it was more important to really listen to the speaker and don't spend to much attention to making really good notes, the notes made are small recaps of what the speakers told us.
 
-Below here are all Weekly nerds and 
+Below here are all Weekly nerds and the three articles i wrote myself, i added 2 more articles for the Weekly nerds that i missed myself to compensate those.
 
 
 ## Weekly nerd:
@@ -23,5 +23,7 @@ Below here are all Weekly nerds and
 - [Lazy Loading](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Lazy-Loading)
 - [CSS Scrolling](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/CSS-Scrolling)
 - [Front-end vs Back-end](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Front-end-vs-Back-end)
+- [TypeScript](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/TypeScript)
+- [Svelte](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Svelte)
 
 
