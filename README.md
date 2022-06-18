@@ -9,6 +9,7 @@ Below here are all Weekly nerds and
 ## Weekly nerd:
 - [Cyd Stumpel - Creative Developer]()
 - [Alvaro Montoro]()
+- [Bramus]()
 - [Fenna de Wilde]()
 - [Rik Schennink]()
 - [Krijn Hoetmer]()
