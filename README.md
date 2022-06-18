@@ -17,7 +17,7 @@ Below here are all Weekly nerds and
 - _~~Vitaly Friedman~~ sick_
 - [Chanel]()
 - [Leonie Watson]()
-- [Rian Rietveld]()
+- _~~Rian Rietveld~~ missed_
 
 ## Articles
 - [Lazy Loading]()
