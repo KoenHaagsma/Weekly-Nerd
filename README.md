@@ -10,6 +10,7 @@ Below here are all Weekly nerds and
 - [Cyd Stumpel - Creative Developer]()
 - [Alvaro Montoro]()
 - [Bramus]()
+- [Nils Binder]()
 - [Fenna de Wilde]()
 - _~~Rik Schennink~~ canceled_
 - [Krijn Hoetmer]()
