@@ -11,7 +11,7 @@ Below here are all Weekly nerds and
 - [Alvaro Montoro]()
 - [Bramus]()
 - [Fenna de Wilde]()
-- [Rik Schennink]()
+- _~~Rik Schennink~~ canceled_
 - [Krijn Hoetmer]()
 - _~~Vitaly Friedman~~ sick_
 - [Chanel]()
