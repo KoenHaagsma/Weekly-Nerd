@@ -25,5 +25,3 @@ Below here are all Weekly nerds and the three articles i wrote myself, i added 2
 - [Front-end vs Back-end](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Front-end-vs-Back-end)
 - [TypeScript](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/TypeScript)
 - [Svelte](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Svelte)
-
-
