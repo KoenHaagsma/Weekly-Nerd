@@ -18,6 +18,12 @@ Below here are all Weekly nerds and the three articles i wrote myself, i added 2
 - [Leonie Watson](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Leonie-Watson)
 - _~~Rian Rietveld~~ missed_
 
+## Weekly mingle:
+- [DEPT]()
+- _~~De Voorhoede~~ afwezig_
+- [Build in Amsterdam]()
+- [Label A]()
+
 ## Articles
 - [Lazy Loading](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Lazy-Loading)
 - [CSS Scrolling](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/CSS-Scrolling)
