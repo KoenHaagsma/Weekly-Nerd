@@ -20,7 +20,7 @@ Below here are all Weekly nerds and the three articles i wrote myself, i added 2
 
 ## Weekly mingle:
 - [DEPT](https://github.com/KoenHaagsma/Weekly-Nerd/wiki/DEPT)
-- _~~De Voorhoede~~ afwezig_
+- _~~De Voorhoede~~ missed_
 - [Build in Amsterdam](https://github.com/KoenHaagsma/Weekly-Nerd/wiki/Build-in-Amsterdam)
 - [Label A](https://github.com/KoenHaagsma/Weekly-Nerd/wiki/Label-A)
 
