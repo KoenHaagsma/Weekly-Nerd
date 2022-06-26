@@ -19,10 +19,10 @@ Below here are all Weekly nerds and the three articles i wrote myself, i added 2
 - _~~Rian Rietveld~~ missed_
 
 ## Weekly mingle:
-- [DEPT]()
+- [DEPT](https://github.com/KoenHaagsma/Weekly-Nerd/wiki/DEPT)
 - _~~De Voorhoede~~ afwezig_
-- [Build in Amsterdam]()
-- [Label A]()
+- [Build in Amsterdam](https://github.com/KoenHaagsma/Weekly-Nerd/wiki/Build-in-Amsterdam)
+- [Label A](https://github.com/KoenHaagsma/Weekly-Nerd/wiki/Label-A)
 
 ## Articles
 - [Lazy Loading](https://github.com/KoenHaagsma/weekly-nerd-2122/wiki/Lazy-Loading)
